@@ -5,8 +5,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: '我的秘密基地',
   tagline: '程序员进击笔记',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://physicshi.github.io',
   baseUrl: '/',
+  projectName: 'physicshi.github.io',
+  organizationName: 'physicshi',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
