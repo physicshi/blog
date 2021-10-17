@@ -4,15 +4,22 @@
         <title>我的秘密基地 Blog</title>
         <link>https://physicshi.github.io/blog/blog</link>
         <description>我的秘密基地 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://physicshi.github.io/blog/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
+            <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎 👏]]></description>
+        </item>
+        <item>
+            <title><![CDATA[husky 代码规范]]></title>
+            <link>https://physicshi.github.io/blog/blog/husky</link>
+            <guid>husky</guid>
+            <pubDate>Sat, 16 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[代码规范]]></description>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
@@ -20,13 +27,6 @@
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://physicshi.github.io/blog/blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
         </item>
     </channel>
 </rss>
