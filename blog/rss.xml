@@ -4,9 +4,16 @@
         <title>我的秘密基地 Blog</title>
         <link>https://physicshi.github.io/blog/blog</link>
         <description>我的秘密基地 Blog</description>
-        <lastBuildDate>Sun, 17 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[什么时候使用redux]]></title>
+            <link>https://physicshi.github.io/blog/blog/redux</link>
+            <guid>redux</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[什么时候使用 redux]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://physicshi.github.io/blog/blog/welcome</link>

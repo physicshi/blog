@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7963],{9210:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/blog/tags","slug":"/blog/blog/tags/redux","name":"redux","count":1,"permalink":"/blog/blog/tags/redux"}')}}]);
