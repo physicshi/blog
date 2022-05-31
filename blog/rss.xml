@@ -4,9 +4,16 @@
         <title>我的秘密基地 Blog</title>
         <link>https://physicshi.github.io/blog</link>
         <description>我的秘密基地 Blog</description>
-        <lastBuildDate>Wed, 22 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pnpm]]></title>
+            <link>https://physicshi.github.io/blog/pnpm</link>
+            <guid>pnpm</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[在讨论 pnpm 前，需要说一下 npm 和 yarn 的痛点。]]></description>
+        </item>
         <item>
             <title><![CDATA[什么时候使用redux]]></title>
             <link>https://physicshi.github.io/blog/redux</link>

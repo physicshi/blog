@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://physicshi.github.io/blog</id>
     <title>我的秘密基地 Blog</title>
-    <updated>2021-12-22T00:00:00.000Z</updated>
+    <updated>2022-05-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://physicshi.github.io/blog"/>
     <subtitle>我的秘密基地 Blog</subtitle>
     <icon>https://physicshi.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[pnpm]]></title>
+        <id>pnpm</id>
+        <link href="https://physicshi.github.io/blog/pnpm"/>
+        <updated>2022-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在讨论 pnpm 前，需要说一下 npm 和 yarn 的痛点。]]></summary>
+        <author>
+            <name>wsgy</name>
+            <uri>https://github.com/physicshi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么时候使用redux]]></title>
         <id>redux</id>
