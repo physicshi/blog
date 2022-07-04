@@ -98,3 +98,11 @@ echo "alias lg=lazygit">>~/.zshrc
 可以通过 `x` 打开菜单
 
 ![image](https://tva2.sinaimg.cn/large/008cOUgNgy1h3v0i9iiqsj317y10wngr.jpg)
+
+当选中 files 面板后，可以通过 `Space` 来进行 add 操作，将文件放到 staged changes，也可以通过 `Space` 来进行 remove 操作，将文件从 staged changes 删除
+
+可以通过 `c` 来进行提交操作，如果想要 reset，只需要选中某次提交的 commit，然后按 `g` 即可：
+
+![image](https://tvax3.sinaimg.cn/large/008cOUgNgy1h3v12aidbaj318m06ogql.jpg)
+
+![image](https://tva3.sinaimg.cn/large/008cOUgNgy1h3v12nha5jj30zc0h4dpq.jpg)
