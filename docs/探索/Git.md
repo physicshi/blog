@@ -91,6 +91,8 @@ brew install lazygit
 echo "alias lg=lazygit">>~/.zshrc
 ```
 
+这样就可以在项目目录下的终端中键入 `lg` 命令，打开 `lazygit` 面板
+
 ![image](https://tva4.sinaimg.cn/large/008cOUgNgy1h3v08vag8jj324k1cmhdt.jpg)
 
 通过 hl 来切换面板，比如当前切换到 commits 里，可以通过 jk 来在内部进行切换
@@ -109,7 +111,7 @@ echo "alias lg=lazygit">>~/.zshrc
 
 ![image](https://tvax2.sinaimg.cn/large/008cOUgNgy1h3v25ae7ctj30qw172k7j.jpg)
 
-键入 `p` 进行 push 操作。
+键入 `P` 进行 push 操作。
 
 当然还可以进行更复杂的操作：
 
@@ -126,3 +128,5 @@ echo "alias lg=lazygit">>~/.zshrc
 :::tip
 图标也值得注意，修改过的是 `M`，未跟踪的是 `??`(新创建的或者从未 add 过的文件就是未跟踪的)，添加到暂存区的是 `A`
 :::
+
+键入 `q` 退出 lazygit
