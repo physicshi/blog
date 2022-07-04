@@ -106,3 +106,23 @@ echo "alias lg=lazygit">>~/.zshrc
 ![image](https://tvax3.sinaimg.cn/large/008cOUgNgy1h3v12aidbaj318m06ogql.jpg)
 
 ![image](https://tva3.sinaimg.cn/large/008cOUgNgy1h3v12nha5jj30zc0h4dpq.jpg)
+
+![image](https://tvax2.sinaimg.cn/large/008cOUgNgy1h3v25ae7ctj30qw172k7j.jpg)
+
+键入 `p` 进行 push 操作。
+
+当然还可以进行更复杂的操作：
+
+![image](https://tvax2.sinaimg.cn/large/008cOUgNgy1h3v2ejufobj323u1akhdt.jpg)
+
+可以在第二个面板，按下 `Enter` 进入右侧区域，通过 `tab` 来回切换 `staged` 区域和 `unstaged` 区域，通过 `Space` 来以行为单位进行 add 操作或者 remove 操作
+
+如果要退出当前的 changes 面板，可以键入 `esc` 或者 `ctrl+[`
+
+`Space` 是单文件级别的 add，如果要把工作区的文件全部放到暂存区，可以在工作区键入 `a`，就可以全部放到 staged 暂存区，再次键入 `a` 就可以移出暂存区
+
+如果要取消某文件的修改，可以键入 `d`（discard changes）；键入 `D` 是针对于所有的修改过的文件来做 discard
+
+:::tip
+图标也值得注意，修改过的是 `M`，未跟踪的是 `??`(新创建的或者从未 add 过的文件就是未跟踪的)，添加到暂存区的是 `A`
+:::
