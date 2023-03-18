@@ -6,7 +6,7 @@ module.exports = {
   title: "我的秘密基地",
   tagline: "程序员进击笔记",
   url: "https://physicshi.github.io",
-  baseUrl: "/",
+  baseUrl: "/blog/",
   projectName: "physicshi.github.io",
   organizationName: "physicshi",
   onBrokenLinks: "throw",
