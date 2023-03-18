@@ -2,42 +2,42 @@
 <rss version="2.0">
     <channel>
         <title>我的秘密基地 Blog</title>
-        <link>https://physicshi.github.io/blog</link>
+        <link>https://physicshi.github.io/blog/blog</link>
         <description>我的秘密基地 Blog</description>
         <lastBuildDate>Tue, 31 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[pnpm]]></title>
-            <link>https://physicshi.github.io/blog/pnpm</link>
+            <link>https://physicshi.github.io/blog/blog/pnpm</link>
             <guid>pnpm</guid>
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[在讨论 pnpm 前，需要说一下 npm 和 yarn 的痛点。]]></description>
         </item>
         <item>
             <title><![CDATA[什么时候使用redux]]></title>
-            <link>https://physicshi.github.io/blog/redux</link>
+            <link>https://physicshi.github.io/blog/blog/redux</link>
             <guid>redux</guid>
             <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[什么时候使用 redux]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://physicshi.github.io/blog/welcome</link>
+            <link>https://physicshi.github.io/blog/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[欢迎 👏]]></description>
         </item>
         <item>
             <title><![CDATA[husky 代码规范]]></title>
-            <link>https://physicshi.github.io/blog/husky</link>
+            <link>https://physicshi.github.io/blog/blog/husky</link>
             <guid>husky</guid>
             <pubDate>Sat, 16 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[代码规范]]></description>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://physicshi.github.io/blog/mdx-blog-post</link>
+            <link>https://physicshi.github.io/blog/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
