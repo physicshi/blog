@@ -29,6 +29,7 @@ sidebar_position: 11
 - 将其他分支合并到当前分支：`git merge <branch-name>`
 - 把远程分支合并到当前分支：`git merge <remote-name>/<branch-name>`
   - 如 git merge origin/serverfix；如果是单线的历史分支不存在任何需要解决的分歧，只是简单的将 HEAD 指针前移，所以这种合并过程可以称为快进（Fast forward），而如果是历史分支是分叉的，会以当前分叉的两个分支作为两个祖先，创建新的提交对象；如果在合并分支时，遇到合并冲突需要人工解决后，再才能提交
+- 拉取远程分支：`git clone -b 远程分支名 仓库地址`
 - 在远程分支的基础上创建新的本地分支：`git checkout -b <branch-name> <remote-name>/<branch-name>`，如 git checkout -b serverfix origin/serverfix
 - 从远程分支 checkout 出来的本地分支，称之为跟踪分支。在跟踪分支上向远程分支上推送内容：git push。该命令会自动判断应该向远程仓库中的哪个分支推送数据；在跟踪分支上合并远程分支：git pull
 
@@ -37,6 +38,18 @@ sidebar_position: 11
 
 或者 `git push --set-upstream 远程仓库名 本地分支名`
 :::
+
+```shell
+# 查看远程分支
+git branch -r
+# 创建本地分支并关联
+git checkout -b 本地分支 origin/远程分支
+
+# 已有本地分支创建关联
+git branch --set-upstream-to origin/远程分支名  本地分支名
+# 拉取
+git pull
+```
 
 ### rebase
 
